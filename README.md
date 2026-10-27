@@ -262,3 +262,4 @@ This project is licensed under the MIT License.
 * Streamlit for dashboard development.
 * Plotly for interactive visualizations.
 * Pandas for data manipulation.
+<!-- Project review & docs log: 2026-10-27 [4/5] -->
